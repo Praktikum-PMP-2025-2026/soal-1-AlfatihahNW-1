@@ -5,7 +5,7 @@
  *   Modul               : Overview of C Language
  *   Hari dan Tanggal    : Senin, 13 April 2026
  *   Nama (NIM)          : 13224095
- *   Nama File           : main.c
+ *   Nama File           : soal1.c
  *   Deskripsi           : Sebuah gerbang keamanan memproses data satu peneliti. Tentukan status akhir peneliti berdasarkan level izin, suhu, radiasi, dan jam.
  * 
  */
