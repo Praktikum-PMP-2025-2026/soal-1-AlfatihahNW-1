@@ -32,7 +32,7 @@ int main(){
             }
             
             if (izin == 2){
-                if (radiasi<=2 && (jam>8 && jam<18)){
+                if (radiasi<=2 && (jam >=8 && jam <=18)){ 
                     printf("MASUK");
                 }
                 else{
